@@ -1,0 +1,4 @@
+bootstrap:
+  gin:
+    port: 8080
+    contextPath: /
