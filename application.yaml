@@ -2,3 +2,7 @@ bootstrap:
   gin:
     port: 8080
     contextPath: /
+
+prometheus:
+  port: 9080
+  path: /prometheus
